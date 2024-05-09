@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vboxuser/catkin_ws1/devel/.private/mgtu_occupancy_l2/setup.sh

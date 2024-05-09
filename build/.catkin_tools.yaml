@@ -1,0 +1,6 @@
+devel_space: /home/vboxuser/catkin_ws1/devel
+install: false
+install_space: /home/vboxuser/catkin_ws1/install
+profile: default
+source_space: /home/vboxuser/catkin_ws1/src
+workspace: /home/vboxuser/catkin_ws1
